@@ -1,0 +1,17 @@
+Instance ID,Instance Type,Image ID,VPC ID,State,Availability Region
+i-0645da29c3b980371,t3.medium,ami-0b02eacf129bfac4e,vpc-004ba834236488075,stopped,ap-south-1a
+i-0cdb5b199eefeaae8,t3.micro,ami-01ca03df4a6012157,vpc-c50b1ebd,stopped,us-east-1f
+i-0f9d6b9fc66d2ecef,t4g.medium,ami-00bf5f1c358708486,vpc-032bfdb48b39c5669,running,us-east-1a
+i-093464ef5b709119e,t3a.small,ami-05fa00d4c63e32376,vpc-05718ad017a319ad6,running,us-east-1a
+i-0f90a64d4fea8b096,c6g.large,ami-09f0bb50202ca06b0,vpc-c50b1ebd,stopped,us-east-1c
+i-0314a32bb1b9b03c0,t3a.large,ami-026b57f3c383c2eec,vpc-05718ad017a319ad6,stopped,us-east-1b
+i-0d667ec967ae88d02,t3a.large,ami-0b0dcb5067f052a63,vpc-032bfdb48b39c5669,running,us-east-1b
+i-01f3ed8789c14811b,t3a.medium,ami-0b0dcb5067f052a63,vpc-032bfdb48b39c5669,running,us-east-1b
+i-0961c5e32e63fc1bb,t4g.micro,ami-0ef1cf6b946f12499,vpc-032bfdb48b39c5669,stopped,us-east-1b
+i-0a7361a9ce250495c,t4g.medium,ami-0ef1cf6b946f12499,vpc-032bfdb48b39c5669,stopped,us-east-1b
+i-0e12dc00f52b5b26b,t3a.large,ami-069aabeee6f53e7bf,vpc-032bfdb48b39c5669,running,us-east-1b
+i-04e7bf54fd0df6169,t3a.large,ami-03c7d01cf4dedc891,vpc-032bfdb48b39c5669,stopped,us-east-1b
+i-05716a58f226e6642,t3a.large,ami-03c7d01cf4dedc891,vpc-032bfdb48b39c5669,stopped,us-east-1b
+i-06c31522705f07aff,t3a.small,ami-02f3f602d23f1659d,vpc-05718ad017a319ad6,running,us-east-1a
+i-0d678aabc17754247,t4g.small,ami-0d1ecaad2613d97c3,vpc-032bfdb48b39c5669,running,us-east-1a
+i-0e4c041afa730f662,t2.micro,ami-0233c2d874b811deb,vpc-03e3592bba077c1be,stopped,us-east-2a
